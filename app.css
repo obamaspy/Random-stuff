@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-weight: normal;/*bold*/
+    font-family: sans-serif;
+    line-height: 3.5;
+    text-align: justify;/* left center right justify*/
+    text-decoration: none;
+    text-transform: none;
+    width: 600;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    border: 10px solid lightgreen;
+
+}
+a{
+    text-decoration: none;
+}
+.AMONGUS{
+    background-color: red;
+}
