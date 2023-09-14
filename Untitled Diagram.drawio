@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T14:59:58.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="6PAZFpzq-NH1mAfgdRV1" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T15:15:29.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="J6qzzrULqC44BhfEl7Ok" version="21.7.4" type="github">
   <diagram name="Page-1" id="OksZ6ZaQm7xGetplLyCO">
     <mxGraphModel dx="946" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,8 +78,68 @@
         <mxCell id="DBYAgwgeb-VGyAYLAnlP-37" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="120" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DBYAgwgeb-VGyAYLAnlP-39" target="DBYAgwgeb-VGyAYLAnlP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DBYAgwgeb-VGyAYLAnlP-39" value="Place the dough in a lightly greased medium-sized bowl, cover the bowl, and let the dough rest and rise for 45 minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="610" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DBYAgwgeb-VGyAYLAnlP-40" target="DBYAgwgeb-VGyAYLAnlP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-42" value="Turn the dough out onto a lightly greased work surface. Gently deflate it, and divide it into three equal pieces" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="835" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-45" value="Shape the baguettes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-48" value="Preheat the oven to 230 degrees" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DBYAgwgeb-VGyAYLAnlP-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="sourcePoint" />
+            <mxPoint x="120" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DBYAgwgeb-VGyAYLAnlP-40" target="DBYAgwgeb-VGyAYLAnlP-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DBYAgwgeb-VGyAYLAnlP-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="930" as="sourcePoint" />
+            <mxPoint x="550" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DBYAgwgeb-VGyAYLAnlP-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="980" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DBYAgwgeb-VGyAYLAnlP-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="980" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBYAgwgeb-VGyAYLAnlP-59" value="Bake the baguettes for 24~28 minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="965" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
